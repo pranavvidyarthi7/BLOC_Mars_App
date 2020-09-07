@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "678883617680",
+    "firebase_url": "https://marsrover-8ad3a.firebaseio.com",
+    "project_id": "marsrover-8ad3a",
+    "storage_bucket": "marsrover-8ad3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678883617680:android:fc99a2b539e8bf05362115",
+        "android_client_info": {
+          "package_name": "com.mmudit01.mar_rover"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678883617680-ack79bj83ab8c6uhnra6gaipt6dsls81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKqudnc2FIiE0o6asn_p3c74T4mUIKBZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678883617680-ack79bj83ab8c6uhnra6gaipt6dsls81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
