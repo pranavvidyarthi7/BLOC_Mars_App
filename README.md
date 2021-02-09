@@ -1,6 +1,6 @@
-# mar_rover
+# MARS-ROVER_APP 
 
-A new Flutter project.
+The app shows the images taken from the 3 mars rovers using the NASA API and is based on BLOC scheme of flutter state mangement.
 
 ## Getting Started
 
