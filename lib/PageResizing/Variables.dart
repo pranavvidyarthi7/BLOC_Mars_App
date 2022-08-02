@@ -1,2 +1,0 @@
-double boxSizeH;
-double boxSizeV;
